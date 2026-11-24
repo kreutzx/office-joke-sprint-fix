@@ -4,7 +4,7 @@ import os
 # u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162).
 # The brief caps each entry at 200 characters; the line is asserted
 # against that cap before anything is written.
-LINE = "Our CEO said 'we're a family' 14 times this quarter; families don't usually schedule the layoffs for Friday."
+LINE = "Our CEO said 'we're a family' 14 times this quarter. My layoff email arrived Friday, subject line: 'A difficult family decision.'"
 MAX_CHARS = 200
 
 
